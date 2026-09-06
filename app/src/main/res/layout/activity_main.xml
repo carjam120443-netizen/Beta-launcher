@@ -38,7 +38,7 @@
             android:layout_marginTop="22dp"
             android:background="@drawable/bg_search"
             android:hint="Search apps"
-            android:hintTextColor="#CCFFFFFF"
+            android:textColorHint="#CCFFFFFF"
             android:textColor="#FFFFFFFF"
             android:singleLine="true"
             android:paddingStart="18dp"
